@@ -3,3 +3,4 @@
 Final project in the MAE204 Robotics, a robotic will pick up a cube from initial configuration to final configuration
 =======
 >>>>>>> eb10166 (first commit)
+https://youtu.be/U1PvPN91wcM
