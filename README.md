@@ -1,4 +1,4 @@
-# MAE204_Robotics_FinalProj
+# Robotics Motion Planning
 <<<<<<< HEAD
 ## introduction
 
